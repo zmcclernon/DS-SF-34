@@ -10,23 +10,10 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | [02](./classes/02) | 4/19 | [The _pandas_ Library](./classes/02) | | |
 | [03](./classes/03) | 4/24 | [Databases, Scrapping, and APIs](./classes/03) | | |
 | [04](./classes/04) | 4/26 | [Exploratory Data Analysis](./classes/04) | | |
-<<<<<<< HEAD
-| 05 | 5/1 | k-Nearest Neighbors | **[Unit Project 1](./unit-project/1)** | |
-=======
 | [05](./classes/05) | 5/1 | [_k_-Nearest Neighbors](./classes/05) | **[Unit Project 1](./unit-project/1)** | |
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> upstream/master
-| 06 | 5/3 | Applied Data Wrangling and Exploratory Data Analysis | | **[Unit Project 1](./unit-project/1)** |
-=======
 | [06](./classes/06) | 5/3 | [Applied Data Wrangling and Exploratory Data Analysis](./classes/06) | | **[Unit Project 1](./unit-project/1)** |
->>>>>>> upstream/master
-| 07 | 5/8 | Linear Regression | | |
-=======
-| [06](./classes/06) | 5/3 | [Applied Data Wrangling and Exploratory Data Analysis](./classes/06) | | |
 | [07](./classes/07) | 5/8 | [Linear Regression](./classes/07) | | **[Unit Project 1](./unit-project/1)** |
->>>>>>> upstream/master
-| 08 | 5/10 | Linear Regression, Part 2 | **[Final Project 1](./final-project/1)** | |
+| [08](./classes/08) | 5/10 | [Linear Regression, Part 2](./classes/08) | **[Final Project 1](./final-project/1)** | |
 | 09 | 5/15 | Linear Regression, Part 3 | **[Unit Project 2](./unit-project/2)** | |
 | 10 | 5/17 | Regularization | | **[Final Project 1](./final-project/1)** |
 | 11 | 5/22 | Logistic Regression | | **[Unit Project 2](./unit-project/2)** |
